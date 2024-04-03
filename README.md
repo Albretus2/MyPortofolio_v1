@@ -19,5 +19,5 @@ ini adalah website Portofolio pertama yang saya buat. Dibuat dengan bantuan libr
 
 ## Demo
 
-[@myPortofolio_v1](https://albretus2.github.io/MyPortofolio/)
+[@myPortofolio_v1](https://albretus2.github.io/MyPortofolio_v1/)
 
