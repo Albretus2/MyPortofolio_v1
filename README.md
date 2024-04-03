@@ -1,6 +1,6 @@
 
 
-![App Screenshot](https://github.com/Albretus2/myPortofolio_v1/blob/main/konten/Screen%20Shot%202024-04-03%20at%2019.49.44.png "Tampilan halaman HomePage")
+![App Screenshot](https://github.com/Albretus2/MyPortofolio/blob/master/konten/Screen%20Shot%202024-04-03%20at%2019.49.44.png)
 
 
 # 📍 My Portofolio v1
